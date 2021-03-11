@@ -1,5 +1,5 @@
 # Welcome To EconomyBot <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-## This EconomyBot was written by 0_0#6666
+## This EconomyBot was written by Asphalt#9166
 ### Language : JavaScript/NodeJS (Core Lang : EN)
 ##### Library : Discord.js
 ###### Framework used : quick.eco by Snowflake Development
